@@ -1,6 +1,6 @@
 # Homebrew Tap
 
-Homebrew formulae for clstr.io CLI tools.
+Homebrew formulae for clstr.io's CLI tools.
 
 ```console
 $ brew tap clstr-io/tap
