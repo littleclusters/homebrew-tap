@@ -1,7 +1,7 @@
 class Clstr < Formula
     desc "Learn distributed systems by building them from scratch"
     homepage "https://clstr.io/"
-    url "https://github.com/clstr-io/clstr.git", tag: "v0.5.3"
+    url "https://github.com/clstr-io/clstr.git", tag: "v0.5.4"
 
     depends_on "go" => :build
 
